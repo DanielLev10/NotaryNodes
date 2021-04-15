@@ -1,39 +1,51 @@
-# Notary Node elections 2021
 
-See below for an overview of the currently active proposals for the 2021 Notary Node election.
-To participate in the elections:
+## Region: North America
 
-1. Upload your proposal before the 16th of April, 12pm UTC in this repository, using a folder with your operator name, and in it at least a `README.md` file. See the already existing proposals as an example.
-2. Table below updating by repo maintainer(s), please, don't make any changes in it in your PRs.
+### VOTE2021 address : `RRtsfRPBjzdhhu7YAr1NLdZPq67QeS3dVf`
 
-Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more election rules.
+![code.jpg](./code.png)
+
+## Reasons to vote for ChicagoDan (Exec Summary)
+Use Funds for Phantasia Development (Komodo Blockchain Project)
+Leverage funds to upgrade Notary Node infrastructure 
+Reliable communication
+Proven work ethic in Blockchain communities.
+
+## About Me
+ ChicagoDan has been in different blockchain communities for years and has experience with software engineering, business development, and product Management. Joined the Komodo community and started building the Phantasia project a P2P Fantasy Sports platform. Along with blockchain development Dan has proven himself in multiple Coin trading communities as a strong TA analyst and shares his thoughts via discord, twitter, and other platforms.
+
+## My Notary Node Goal
+
+My goal as a Komodo Network Notary Node is to provide a reliable, effective and efficient notarising node. I will be available to help keep the node up and respond promptly to any communications via email,discord, etc… 
+
+If elected - I will continue to invest in my personal infrastructure to ensure a quality and reliable system.
+
+## Community Development Projects
+![banner.jpg](./phantasia.jpg)
+
+Funds gained from this opportunity I will keep them within the Komodo community and invest in Phantasia project development. The Phantasia project is currently in the design phase and will need additional resources when moved into development. Throughout the ideation phase of the Phantasia project many members of the Komodo community were consulted and provided input into the project. We will continue to work with current Komodo members and hope to expand the Komodo community through the engagement of Phantasia.
+
+## Server Specifications
+
+| Hardware     | **Primary Server** |
+    |----------|---------------------|
+    | CPU      | 4x Intel Xeon E7-4870 10-Core (40 Cores)|
+    | RAM      | 512GB ECC RAM|
+    | Storage  | 4TB RAID Storage|
+    |PSU       |4x 1100 Watt (Hot-Swap)|
+
+| Hardware     | **Secondary Server** |
+    |----------|---------------------|
+    | CPU      | AMD Ryzen 9 3950X 16-Core|
+    | RAM      | 64GB RAM|
+    | Storage  | 2TB RAID Storage|
+    |PSU       |2x 700 Watt (Hot-Swap)|
+
+##  Contact Details
+###  Media
+- Discord @ChicagoDan#5742
+- [Komodo Discord](https://komodoplatform.com/discord)
+- [Twitter](https://twitter.com/Dlev10)
 
 
-|  #  | EU                                 | NA                                       | SH                                     | AR                                     |
-| --- | ---------------------------------- | ---------------------------------------- | -------------------------------------- | -------------------------------------- |
-|  1. | [decker](decker/README.md)         | [computergenie](computergenie/README.md) | [zatjum](zatjum/README.md)             | [decker](decker/README.md)             |
-|  2. | [alien](alien/README.md)           | [alien](alien/README.md)                 | [titomane](titomane/README.md)         | [alien](alien/README.md)               |
-|  3. | [smdmitry](smdmitry/README.md)     | [greer](greer/README.md)                 | [nutellalicka](nutellalicka/README.md) | [dudezmobi](dudezmobi/README.md)       |
-|  4. | [slyris](slyris/README.md)         | [dragonhound](dragonhound/README.md)     | [darkolisio](darkolisio/README.md)     | [titomane](titomane/README.md)         |
-|  5. | [dappvader](dappvader/README.md)   | [kulim](kulim/README.md)                 | [gcharang](gcharang/README.md)         | [ocean](ocean/README.md)               |
-|  6. | [donromero](donromero/README.md)   | [ptyx](ptyx/README.md)                   | [workax](workax/README.md)             | [nutellalicka](nutellalicka/README.md) |
-|  7. | [titomane](titomane/README.md)     | [theerbeen](theerbeen/README.md)         | [phm87](phm87/README.md)               | [byozgunn](byozgunn/README.md)         |
-|  8. | [mihailo](mihailo/README.md)       | [crackers](crackers/README.md)           | [foxminner](foxminner/README.md)       | [fediakash](fediakash/README.md)       |
-|  9. | [jorian](jorian/README.md)         | [rustytwilight](rustytwilight/README.md) | [pbca26](pbca26/README.md)             | [pangz](pangz/README.md)               |
-| 10. | [mx222](mx222/README.md)           | [nodeone](nodeone/README.md)             | [shin-ra77](shin-ra77/README.md)       | [kolo](kolo/README.md)                 |
-| 11. | [fairbanksy](fairbanksy/README.md) | [chmex](chmex/README.md)                 | [chmex](chmex/README.md)               | [daria](daria/README.md)               |
-| 12. | [block9](block9/README.md)         | [strob](strob/README.md)                 | [strob](strob/README.md)               | [chmex](chmex/README.md)               |
-| 13. | [madmax](madmax/README.md)         | [madmax](madmax/README.md)               | [sheeba](sheeba/README.md)             | [mcrypt](mcrypt/README.md)             |
-| 14. | [hastrup](hastrup/README.md)       | [webworker01](webworker01/README.md)     | [d4v](d4v/README.md)                   | [mrlynch](mrlynch/README.md)           |
-| 15. | [yurii-khi](yurii-khi/README.md)   | [captainsparrow](captainsparrow/README.md)| [mylo](mylo/README.md)                | [dathbezumniy](dathbezumniy/README.md) |
-| 16. | [pirate](pirate/README.md)         | [pirate](pirate/README.md)               | [kmdude](kmdude/README.md)             | [goldenman](goldenman/README.md)       |
-| 17. | [ca333](ca333/README.md)           | [daemonfox](daemonfox/README.md)         | [hyperstaking](hyperstaking/README.md) | [starfleet](starfleet/README.md)       |
-| 18. | [cipi](cipi/README.md)             | [cipi](cipi/README.md)                   | [drkush](drkush/README.md)             | [tonyl](tonyl/README.md)               |
-| 19. | [van](van/README.md)               | [mojojojo400](mojojojo400/README.md)     | [metaphilibert](metaphilibert/README.md)| [cipi](cipi/README.md)                |
-| 20. | [node-9](node-9/README.md)         | [node-9](node-9/README.md)               | [kidcrypto81](kidcrypto81/README.md)   | [metaphilibert](metaphilibert/README.md)|
-| 21. | [syl](syl/README.md)               | [who-biz](who-biz/README.md)             | [collider](collider/README.md)         | [tokel](tokel/README.md)               |
-| 22. | [arnomad](arnomad/README.md)       |                                          |                                        | [etszombi](etszombi/README.md)         |
-| 23. | [komodopioneers](komodopioneers/README.md)|                                   |                                        |                                        |
-| 24. | [etszombi](etszombi/README.md)     |                                          |                                        |                                        |
-| 25. | [jusoaresf](jusoaresf/README.md)   |                                          |                                        |                                        |
-| 26. | [marmarachain](marmarachain/README.md)|                                       |                                        |                                        |
+### Email Lev.M.Daniel@gmail.com
